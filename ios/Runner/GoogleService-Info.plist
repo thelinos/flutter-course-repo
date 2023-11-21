@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBC7-SRdTS1EzFOMW0i5R0BDJYBZs_0qHM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>306432278883</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterCourseProject</string>
+	<key>PROJECT_ID</key>
+	<string>registration-screen-16b69</string>
+	<key>STORAGE_BUCKET</key>
+	<string>registration-screen-16b69.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:306432278883:ios:3cd6cfb7e767b2795f9356</string>
+	<key>DATABASE_URL</key>
+	<string>https://registration-screen-16b69-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
